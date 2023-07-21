@@ -1,6 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 # Car Showcase application learned from JS Mastery course.
+
+Preview [https://car-showcase-iota-gilt.vercel.app/](https://car-showcase-iota-gilt.vercel.app/) deployed at Vercel
 
 ## Getting Started
 
